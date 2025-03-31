@@ -9,13 +9,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
 </div>
 
 ###
