@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Responsivo para Mobile em breve ⚡</h1>
+<h1 align="center">Responsivo para Mobile em breve</h1>
 
 ###
 
