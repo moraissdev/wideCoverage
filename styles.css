@@ -99,6 +99,35 @@ header {
     opacity: 0.6;
 }
 
+@media screen and (max-width: 900px) {
+
+    header {
+        display: flex;
+        margin-top: 30px;
+        margin-left: 42px;
+        align-items: center;
+    }
+
+    .icon-image {
+        width: 450px;
+        height: 500px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .texts {
+        display: inline-block;
+        text-align: center;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+
+    .desc {
+        margin: auto auto 55px auto;
+    }
+
+}
+
 @media screen and (min-width: 901px) and (max-width: 1300px) {
     header {
         margin-top: 25px;
