@@ -1,4 +1,4 @@
-<h1 align="center">Localização de Ampla Cobertura 🤳</h1>
+<h1 align="center">Local de Ampla Cobertura 🤳</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://camo.githubusercontent.com/4611ac0354a13604febfcc1175a028332d8ecfbb56e5ab11ec67c3cc31468b2c/68747470733a2f2f692e696d6775722e636f6d2f4d724f447959422e706e67"  />
+  <img height="400" src="https://i.imgur.com/2R7OCsH.png"  />
 </div>
 
 ###
