@@ -118,6 +118,7 @@ header {
         display: inline-block;
         text-align: center;
         margin-left: 0px;
+        margin-bottom: 30px;
     }
 
     .desc {
