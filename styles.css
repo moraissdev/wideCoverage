@@ -22,6 +22,7 @@ header {
     letter-spacing: 0.88px;
     cursor: pointer;
     margin-right: 38px;
+    text-decoration: none;
 }
 
 .header-button {
@@ -38,7 +39,7 @@ header {
     border-radius: 6px;
 }
 
-.icon-image {
+.image {
     width: 596px;
     height: 500px;
     margin-left: 120px;
@@ -79,10 +80,6 @@ header {
     margin-left: 85px;
 }
 
-.img {
-    display: inline-block;
-}
-
 .header-button:hover {
     opacity: 0.8;
 }
@@ -101,6 +98,11 @@ header {
 
 @media screen and (max-width: 900px) {
 
+    nav {
+    display: flex;
+    align-items: center;
+    }
+
     header {
         display: flex;
         margin-top: 30px;
@@ -108,17 +110,17 @@ header {
         align-items: center;
     }
 
-    .icon-image {
-        width: 400px;
+    .image {
+        max-width: 100%;
         height: 500px;
         margin-top: 0px;
     }
 
     .texts {
-        display: inline-block;
+        display: block;
+        max-width: 100%;  
         text-align: center;
-        margin-left: 0px;
-        margin-bottom: 30px;
+        margin: auto auto 30px auto;
     }
 
     .desc {
@@ -133,7 +135,7 @@ header {
         margin-left: 45px;
     }
 
-    .icon-image {
+    .image {
         width: 580px;
         height: 480px;
         margin-left: 65px;
