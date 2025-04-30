@@ -1,4 +1,4 @@
-<h1 align="center">Local de Ampla Cobertura 🤳</h1>
+<h1 align="center">Turismo Local 🌄</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.imgur.com/2R7OCsH.png"  />
+  <img height="400" src="https://i.imgur.com/vxcPBXe.png"  />
 </div>
 
 ###
